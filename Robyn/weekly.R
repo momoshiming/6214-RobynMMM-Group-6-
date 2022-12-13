@@ -70,4 +70,4 @@ data_week <- data_new %>%
 
 data_week <- data_week[,-c(2,3)]
 
-write.csv(data_week,"data_week_final.csv", row.names = FALSE)
+write.csv(data_week,"weekly.csv", row.names = FALSE)
