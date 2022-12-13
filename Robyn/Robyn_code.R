@@ -26,7 +26,7 @@ use_virtualenv("r-reticulate-cassandra", required = TRUE)
 ################################################################
 #### Step 1: Load data##########################################
 
-data_week <- read.csv('data_week_final.csv')
+data_week <- read.csv('weekly.csv')
 colnames(data_week)[colnames(data_week) == 'week'] <- 'date'
 data_week$date <- as.Date(data_week$date, format='%Y-%m-%d')
 data_week$year <- substr(data_week$date, 1, 4)
