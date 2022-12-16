@@ -1,4 +1,4 @@
-# 6214-RobynMMM-Group-6-
+# 6214-RobynMMM-Group-6
 Capstone project(Group 6)
 
 #For Appendix 1: You have to download the data first then you could run the following appendix's files
