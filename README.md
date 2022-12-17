@@ -1,7 +1,7 @@
 # 6214-RobynMMM-Group-6
 Capstone project(Group 6)
 
-#For Appendix 1: You have to download the data first then you could run the following appendix's files
+#For Appendix 1: You have to download the macroeconomic data first then you could run the following appendix's files
 
 #For Appendix 2-3: please download the data file first in each document and then run the code in the same file.
 
