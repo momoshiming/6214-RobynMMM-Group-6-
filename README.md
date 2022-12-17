@@ -6,3 +6,5 @@ Capstone project(Group 6)
 #For Appendix 2, 3: Code for EDA and model
 
 #For Appendix 4: please run week_Final.R first with data_mmm. Then you could get the data_week_final.csv After that you could successfully run Robyn.R
+
+#For Appendix 5: Sorry, the output file has been deleted for company privacy.
